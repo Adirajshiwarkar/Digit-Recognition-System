@@ -128,8 +128,8 @@ This displays the grayscale image of a handwritten digit.
 
 **Adiraj Shiwarkar**
 AI/ML Developer | Data Analyst | Tech Explorer
-GitHub: [github.com/yourusername](https://github.com/yourusername)
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+GitHub: [github.com/yourusername](https://github.com/Adirajshiwarkar)
+LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/adiraj-shiwarkar-959599251/)
 
 ---
 
